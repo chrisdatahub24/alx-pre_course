@@ -1,1 +1,1 @@
-readme for pre course
+coding is cool
