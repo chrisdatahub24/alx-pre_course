@@ -1,1 +1,1 @@
-my first readme in a repo
+my first readme in a repository
